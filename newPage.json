@@ -114,7 +114,8 @@
                                                                         "key": "defaultText"
                                                                     }
                                                                 ],
-                                                                "dynamicTriggerPathList": []
+                                                                "dynamicTriggerPathList": [],
+                                                                "placeholderText": "sk-XXXXXXvY62Az1EeBMtrlT3BlbkFJQ7I1qyDEdhTgjqXXXXXX"
                                                             },
                                                             {
                                                                 "isVisible": true,
@@ -351,7 +352,8 @@
                                                                         "key": "defaultText"
                                                                     }
                                                                 ],
-                                                                "dynamicTriggerPathList": []
+                                                                "dynamicTriggerPathList": [],
+                                                                "placeholderText": "your_power_ai_assistant_bot"
                                                             },
                                                             {
                                                                 "isVisible": true,
@@ -392,7 +394,8 @@
                                                                         "key": "defaultText"
                                                                     }
                                                                 ],
-                                                                "dynamicTriggerPathList": []
+                                                                "dynamicTriggerPathList": [],
+                                                                "placeholderText": "6XXXXX8005:AAG67WqIzKhHyil1dYfV1x0mjYBF_XXXXXX"
                                                             },
                                                             {
                                                                 "isVisible": true,
