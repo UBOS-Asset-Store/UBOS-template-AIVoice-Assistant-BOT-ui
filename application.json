@@ -1,0 +1,52 @@
+{
+    "_id": "65c255fa89b1485faf7d4019",
+    "name": "ai-voice-ui",
+    "slug": "ai-voice-ui",
+    "organizationId": "Org",
+    "isPublic": true,
+    "isMenu": false,
+    "isShowPlatformTag": true,
+    "createdAt": "2024-02-06T15:53:30.848Z",
+    "updatedAt": "2024-02-06T15:53:30.848Z",
+    "deleted": false,
+    "pages": [
+        {
+            "_id": "home",
+            "isDefault": true
+        }
+    ],
+    "policies": [
+        {
+            "permission": "makePublic:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "read:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "publish:applications",
+            "groups": [],
+            "users": []
+        },
+        {
+            "permission": "manage:applications",
+            "groups": [],
+            "users": []
+        }
+    ],
+    "global_setting": {
+        "css": "${env.get(\"back\")}/css",
+        "title": "AI Voice Assistant Bot"
+    },
+    "gitApplicationMetadata": {
+        "browserSupportedRemoteUrl": "https://github.com/UBOS-Asset-Store/UBOS-template-AIVoice-Assistant-BOT-ui",
+        "defaultApplicationId": "ai-voice-ui",
+        "defaultBranchName": "main",
+        "isRepoPrivate": true,
+        "remoteUrl": "git@github.com:UBOS-Asset-Store/UBOS-template-AIVoice-Assistant-BOT-ui.git",
+        "repoName": "UBOS-template-AIVoice-Assistant-BOT-ui"
+    }
+}
